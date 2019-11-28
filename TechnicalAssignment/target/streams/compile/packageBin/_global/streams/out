@@ -1,0 +1,27 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/kartikbatheja/Documents/workspace/ado/SparkJobs/jobs/TechnicalAssignment/target/scala-2.11/technicalassignment_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kartikbatheja/Documents/workspace/ado/SparkJobs/jobs/TechnicalAssignment/target/scala-2.11/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PieceChecker$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kartikbatheja/Documents/workspace/ado/SparkJobs/jobs/TechnicalAssignment/target/scala-2.11/classes/PieceChecker$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PieceChecker.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kartikbatheja/Documents/workspace/ado/SparkJobs/jobs/TechnicalAssignment/target/scala-2.11/classes/PieceChecker.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	validations[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kartikbatheja/Documents/workspace/ado/SparkJobs/jobs/TechnicalAssignment/target/scala-2.11/classes/validations[0m
+[0m[[0m[0mdebug[0m] [0m[0m	validations/DataValidation$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kartikbatheja/Documents/workspace/ado/SparkJobs/jobs/TechnicalAssignment/target/scala-2.11/classes/validations/DataValidation$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	validations/DataValidation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kartikbatheja/Documents/workspace/ado/SparkJobs/jobs/TechnicalAssignment/target/scala-2.11/classes/validations/DataValidation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	validations/DataValidation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kartikbatheja/Documents/workspace/ado/SparkJobs/jobs/TechnicalAssignment/target/scala-2.11/classes/validations/DataValidation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	functions[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kartikbatheja/Documents/workspace/ado/SparkJobs/jobs/TechnicalAssignment/target/scala-2.11/classes/functions[0m
+[0m[[0m[0mdebug[0m] [0m[0m	functions/BoardFunction$$anonfun$drawBoard$1$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kartikbatheja/Documents/workspace/ado/SparkJobs/jobs/TechnicalAssignment/target/scala-2.11/classes/functions/BoardFunction$$anonfun$drawBoard$1$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	functions/BoardFunction$$anonfun$drawBoard$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kartikbatheja/Documents/workspace/ado/SparkJobs/jobs/TechnicalAssignment/target/scala-2.11/classes/functions/BoardFunction$$anonfun$drawBoard$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	functions/BoardFunction$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kartikbatheja/Documents/workspace/ado/SparkJobs/jobs/TechnicalAssignment/target/scala-2.11/classes/functions/BoardFunction$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	functions/BoardFunction.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kartikbatheja/Documents/workspace/ado/SparkJobs/jobs/TechnicalAssignment/target/scala-2.11/classes/functions/BoardFunction.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
